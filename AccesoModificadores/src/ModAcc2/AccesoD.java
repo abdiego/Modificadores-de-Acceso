@@ -1,7 +1,12 @@
 package ModAcc2;
-
+/**
+ * 
+ * @author Diego
+ * Modificador acceso
+ */
 public class AccesoD {
 	
+	/*Crea varibles con modificador default*/
 	String frutaMango = "Mango";
 	String frutaManzana = "Manzana";
 	String frutaSandia = "Sandia";

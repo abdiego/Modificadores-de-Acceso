@@ -1,6 +1,10 @@
 package ModAcc;
 
-import ModAcc2.AccesoD;
+/**
+ * 
+ * @author Diego
+ * Modificar de Acceso private
+ */
 
 public class AccesoPrivado {
 
